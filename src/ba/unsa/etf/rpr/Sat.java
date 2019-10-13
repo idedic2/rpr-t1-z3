@@ -27,7 +27,7 @@ public class Sat {
         this.sekunde = sekunde;
     }
 
-    void Postavi(int sati, int minute, int sekunde) {
+    public void Postavi(int sati, int minute, int sekunde) {
         this.sati = sati;
         this.minute = minute;
         this.sekunde = sekunde;
